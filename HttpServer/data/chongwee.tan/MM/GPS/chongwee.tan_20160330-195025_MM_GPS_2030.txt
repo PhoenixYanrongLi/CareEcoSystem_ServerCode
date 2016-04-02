@@ -1,0 +1,2 @@
+timestamp[s] latitude[f] longitude[f]
+16-03-30T19:49:26.000 37.875870 -122.265416

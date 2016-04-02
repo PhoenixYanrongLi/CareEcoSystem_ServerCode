@@ -1,0 +1,8 @@
+# hidden files
+.idea/**
+.DS_Store
+
+# Untracked folders for this branch
+*.pyc
+.idea/**
+WearTest/**
